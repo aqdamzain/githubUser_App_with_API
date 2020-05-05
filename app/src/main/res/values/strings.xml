@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GithubUserV2</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="_1000">1000</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="userUrl">URL: https://github.com/username</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu1</string>
+    <string name="menu_2">Menu2</string>
+    <string name="email">Email</string>
+    <string name="tab_text_1">Overview</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="tab_text_3">Following</string>
+</resources>
